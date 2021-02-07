@@ -1,8 +1,10 @@
 <div>
 <p align="center">
   <strong>Sobre mim:</strong>
+  <br>
+  Oi, tudo bem? Me chamo Euller, tenho 19 anos, estudante do curso de Análise e Desenvolvimento de Sistemas desde agosto de 2020. Comecei minha jornada como Desenvolvedor WEB no começo do ano de 2020, pelo curso de JavaScript do Gustavo Guanabara do canal Curso em Vídeo, depois de quase um ano de estudos, hoje, tenho um bom conhecimento da linguagem JavaScript, possibilitando possibilitando meu avanço para o aprenzidado de frameworks como o React.js e para programação no lado do sevidor com Node.js(express).
 </p>
- <p align="center">
+<p align="center">
   <strong>Habilidades:</strong>
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,6 +19,16 @@
 </p>
 <p align="center"> 
   <img src="https://i.pinimg.com/originals/a5/c4/5b/a5c45bed9a370ae41bf601abe8aaefba.png" width="500">
+</p>
+<p align="center">
+  <strong>Habilidades que pretendo obter no futuro:</strong>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 <p align="center">
   <strong>Entre em contado:</strong> 
