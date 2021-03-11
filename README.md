@@ -2,7 +2,7 @@
 <p align="center">
   <strong>Sobre mim:</strong>
   <br>
-  Oi, tudo bem? Me chamo Euller, tenho 19 anos, estudante do curso de Análise e Desenvolvimento de Sistemas desde agosto de 2020. Comecei minha jornada como Desenvolvedor WEB no começo do ano de 2020, pelo curso de JavaScript do Gustavo Guanabara do canal Curso em Vídeo, depois de quase um ano de estudos, hoje, tenho um bom conhecimento da linguagem JavaScript, possibilitando possibilitando meu avanço para o aprenzidado de frameworks como o React.js e para programação no lado do sevidor com Node.js(express).
+  Oi, tudo bem? Me chamo Euller, tenho 19 anos, estudante do curso de Análise e Desenvolvimento de Sistemas desde agosto de 2020. Comecei minha jornada como Desenvolvedor WEB no começo do ano de 2020, pelo curso de JavaScript do Gustavo Guanabara do canal Curso em Vídeo, depois de quase um ano de estudo, hoje, tenho um bom conhecimento da linguagem JavaScript, possibilitando meu avanço para o aprenzidado de frameworks como o React.js e para programação no lado do sevidor com Node.js(express).
 </p>
 <p align="center">
   <strong>Habilidades:</strong>
