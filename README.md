@@ -1,6 +1,7 @@
 <div>
 <p align="center">
   <strong>Sobre mim:</strong>
+  <br>
   [...]
   <br>
 </p>
